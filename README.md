@@ -7,7 +7,8 @@ Current technology stack:
 - .NET
 - JS
 - TS
-- SQL
+- MSSQL
+- PostgresSQL
 - MongoDb
 - Redis
 - Azure
