@@ -15,3 +15,4 @@ Current technology stack:
 - HTML
 - CSS
 - SCSS
+- Tailwind CSS
