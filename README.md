@@ -20,6 +20,11 @@
   </a>
 </p>
 
+<p>Certifications:</p>
+<ul>
+  <li><strong>Microsoft Certified: Azure Fundamentals</strong> - AZ-900</li>
+</ul>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -27,11 +32,6 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
-
-<p>Certifications:</p>
-<ul>
-  <li><strong>Microsoft Certified: Azure Fundamentals</strong> - AZ-900</li>
-</ul>
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/anh-tuan-dang-6b678126b" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
