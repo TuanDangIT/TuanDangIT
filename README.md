@@ -22,7 +22,7 @@
 
 <p>Certifications:</p>
 <ul>
-  <li><strong>Microsoft Certified: Azure Fundamentals</strong> - AZ-900</li>
+  <li><strong><a href="https://learn.microsoft.com/en-us/users/anhtuandang-8472/credentials/certification/azure-fundamentals?tab=credentials-tab">Microsoft Certified: Azure Fundamentals</a></strong> - AZ-900</li>
 </ul>
 
 <!-- Connect with me -->
