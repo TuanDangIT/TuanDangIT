@@ -8,7 +8,6 @@
     <summary><h2 style="display: inline-block">Future .NET Developer | Future Fullstack Developer</h2></summary>
   </ul>
 </div>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 - 🔭 I’m currently working on **.NET, C#, Angular, JavaScript, Typescript, HTML, CSS, Azure, Docker**
 - 💥 My most advance project is **[EcommerceAPI](https://github.com/TuanDangIT/EcommerceAPI)** which was written in C#/.NET in Modular Monolithic architecture
 - 🌱 I’m currently learning **about microservices**
