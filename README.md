@@ -10,7 +10,7 @@
 </div>
 
 - 🔭 I’m currently working on **.NET, C#, Angular, JavaScript, Typescript, HTML, CSS, Azure, Docker**
-- 💥 My most advance project is **[EcommerceAPI](https://github.com/TuanDangIT/EcommerceAPI)** which was written in C#/.NET in Modular Monolithic architecture
+- 💥 My most advance project is **[EcommerceAPI](https://github.com/TuanDangIT/EcommerceAPI)** which was written in C#/.NET in Modular Monolithic architecture. I also recommend you to check out my first fullstack project with Angular + .NET.
 - 🌱 I’m currently learning **about microservices**
 - 📫 Feel free to reach me out **shocksee001@gmail.com**
  
@@ -23,6 +23,9 @@
 <p>Certifications:</p>
 <ul>
   <li><strong><a href="https://learn.microsoft.com/en-us/users/anhtuandang-8472/credentials/certification/azure-fundamentals?tab=credentials-tab">Microsoft Certified: Azure Fundamentals</a></strong> - AZ-900</li>
+  <li>AWS Certified Cloud Practitioner</li>
+  <li>Salesforce Certified MuleSoft Developer</li>
+  <li>Studio Creatio (Advanced)</li>
 </ul>
 
 <!-- Connect with me -->
