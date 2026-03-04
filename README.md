@@ -10,7 +10,7 @@
 </div>
 
 - 🔭 I’m currently working on **.NET, C#, Angular, JavaScript, Typescript, HTML, CSS, Azure, Docker**
-- 💥 My most advance project is **[EcommerceAPI](https://github.com/TuanDangIT/EcommerceAPI)** which was written in C#/.NET in Modular Monolithic architecture. I also recommend you to check out my first fullstack project with Angular + .NET **[Linksy](https://github.com/TuanDangIT/Linksy).
+- 💥 My most advance project is **[EcommerceAPI](https://github.com/TuanDangIT/EcommerceAPI)** which was written in C#/.NET in Modular Monolithic architecture. I also recommend you to check out my first fullstack project with Angular + .NET **[Linksy](https://github.com/TuanDangIT/Linksy)**.
 - 🌱 I’m currently learning **about microservices**
 - 📫 Feel free to reach me out **shocksee001@gmail.com**
  
